@@ -17,7 +17,7 @@ Rolling updates, self-healing test, hierarchy validation
 
 YAML configs for RC, RS, Deployment, Service
 
-📄 Solution PDF: ques1.pdf
+📄 Solution PDF: ques1.pdf(https://github.com/prateek200445/devops_celebal_week6/blob/main/ques1.pdf)
 📚 Reference: YouTube Video
 
 🌐 ****Q2: Kubernetes Service Types (ClusterIP, NodePort, LoadBalancer)**
