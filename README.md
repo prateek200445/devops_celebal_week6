@@ -2,7 +2,7 @@
 # Kubernetes Assignment - AKS, Controllers, Services, Scaling & More
 This repository documents the solutions I implemented as part of a Kubernetes assignment. Each task has been solved practically using YAML files, Azure Kubernetes Service (AKS), kubectl commands, and Docker. The assignment includes key Kubernetes components such as ReplicaSets, Deployments, Services, Probes, Scaling, and Storage.
 
-🔧 Q1: Deploy Replica Set, Replication Controller, and Deployment
+🔧  **Q1: Deploy Replica Set, Replication Controller, and Deployment**
 Objective: Understand differences and implement all three Kubernetes controllers.
 Solutions Covered:
 
@@ -19,7 +19,7 @@ YAML configs for RC, RS, Deployment, Service
 📄 Solution PDF: ques1.pdf
 📚 Reference: YouTube Video
 
-🌐 Q2: Kubernetes Service Types (ClusterIP, NodePort, LoadBalancer)
+🌐 **Q2: Kubernetes Service Types (ClusterIP, NodePort, LoadBalancer)**
 Objective: Demonstrate the use of all 3 service types.
 Highlights:
 
@@ -32,7 +32,7 @@ Explained flow of traffic and cloud usage
 📄 Solution PDF: ques2.pdf
 📚 Reference: YouTube Video
 
-💾 Q3: PersistentVolume (PV) & PersistentVolumeClaim (PVC)
+💾 ** Q3: PersistentVolume (PV) & PersistentVolumeClaim (PVC)**
 Objective: Implement persistent storage for applications.
 Highlights:
 
@@ -45,7 +45,7 @@ Verified persistent data storage with shell commands
 📄 Solution PDF: ques3 and 7.pdf
 📚 Reference: YouTube Video
 
-☁️ Q4: Managing Kubernetes with AKS
+☁️ **Q4: Managing Kubernetes with AKS**
 Objective: Learn scaling, upgrading AKS clusters.
 Highlights:
 
@@ -58,7 +58,7 @@ Used CLI commands for real-world cloud scaling
 📄 Solution PDF: ques4.pdf
 📚 Reference: Azure Docs
 
-❤️‍🔥 Q5: Configure Liveness and Readiness Probes
+❤️‍🔥** Q5: Configure Liveness and Readiness Probes**
 Objective: Improve app health monitoring in AKS.
 Highlights:
 
@@ -71,7 +71,7 @@ Explained real-life importance in prod systems
 📄 Solution PDF: ques 5 and 8.pdf
 📚 Reference: YouTube Video
 
-🧭 Q6: Configure Taints and Tolerations
+🧭 **Q6: Configure Taints and Tolerations**
 Objective: Restrict workloads to specific nodes.
 Highlights:
 
@@ -84,7 +84,7 @@ Explained scenario with dedicated GPU workloads
 📄 Solution PDF: ques6.pdf
 📚 Reference: YouTube Video
 
-🗄️ Q7: Mount PVC to Deployment
+🗄️ **Q7: Mount PVC to Deployment**
 Objective: Use PV/PVC in deployed applications
 Highlights:
 
@@ -97,7 +97,7 @@ Tested using in-container file creation
 📄 Solution PDF: ques3 and 7.pdf
 📚 Reference: Azure Docs
 
-⚙️ Q8: Health Probe Simulation
+⚙️ **Q8: Health Probe Simulation**
 Objective: Understand and simulate Kubernetes’ self-healing.
 Highlights:
 
@@ -110,7 +110,7 @@ Demonstrated resiliency
 📄 Solution PDF: ques 5 and 8.pdf
 📚 Reference: YouTube Video
 
-📈 Q9: Configure Horizontal Pod Autoscaler (HPA)
+📈 **Q9: Configure Horizontal Pod Autoscaler (HPA)**
 Objective: Scale pods automatically based on CPU usage.
 Highlights:
 
