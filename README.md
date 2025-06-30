@@ -124,3 +124,12 @@ Simulated CPU load to observe autoscaling
 📚 Reference: YouTube Video
 
 In this repo there is a complete conceptual and practical undestanding of the AKS services also knwn as azure kubernetes services
+
+Public Access to Deployed App
+Public IP (via LoadBalancer):
+http://4.213.203.76
+↳ This IP was provisioned automatically by Azure AKS using the LoadBalancer service type.
+
+Docker Image Used
+docker pull prateek2004/my-frontend
+
