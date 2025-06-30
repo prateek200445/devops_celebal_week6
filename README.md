@@ -2,8 +2,9 @@
 # Kubernetes Assignment - AKS, Controllers, Services, Scaling & More
 This repository documents the solutions I implemented as part of a Kubernetes assignment. Each task has been solved practically using YAML files, Azure Kubernetes Service (AKS), kubectl commands, and Docker. The assignment includes key Kubernetes components such as ReplicaSets, Deployments, Services, Probes, Scaling, and Storage.
 
-🔧  **Q1: Deploy Replica Set, Replication Controller, and Deployment**
-Objective: Understand differences and implement all three Kubernetes controllers.
+🔧  ****Q1: Deploy Replica Set, Replication Controller, and Deployment**
+Objective: Understand differences and implement all three Kubernetes controllers.**
+
 Solutions Covered:
 
 Local setup using kubeadm
@@ -19,8 +20,8 @@ YAML configs for RC, RS, Deployment, Service
 📄 Solution PDF: ques1.pdf
 📚 Reference: YouTube Video
 
-🌐 **Q2: Kubernetes Service Types (ClusterIP, NodePort, LoadBalancer)**
-Objective: Demonstrate the use of all 3 service types.
+🌐 ****Q2: Kubernetes Service Types (ClusterIP, NodePort, LoadBalancer)**
+Objective: Demonstrate the use of all 3 service types.**
 Highlights:
 
 Created LoadBalancer service on AKS
@@ -32,8 +33,8 @@ Explained flow of traffic and cloud usage
 📄 Solution PDF: ques2.pdf
 📚 Reference: YouTube Video
 
-💾 ** Q3: PersistentVolume (PV) & PersistentVolumeClaim (PVC)**
-Objective: Implement persistent storage for applications.
+💾   Q3:** PersistentVolume (PV) & PersistentVolumeClaim (PVC)**
+Objective: Implement persistent storage for applications
 Highlights:
 
 Created PV & PVC
@@ -58,7 +59,7 @@ Used CLI commands for real-world cloud scaling
 📄 Solution PDF: ques4.pdf
 📚 Reference: Azure Docs
 
-❤️‍🔥** Q5: Configure Liveness and Readiness Probes**
+❤️‍🔥  **Q5: Configure Liveness and Readiness Probes****
 Objective: Improve app health monitoring in AKS.
 Highlights:
 
