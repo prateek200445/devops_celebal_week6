@@ -30,7 +30,7 @@ Configured ClusterIP and NodePort services
 
 Explained flow of traffic and cloud usage
 
-📄 Solution PDF: ques2.pdf
+📄 Solution PDF: ques2.pdf ( https://github.com/prateek200445/devops_celebal_week6/blob/main/ques2.pdf)
 📚 Reference: YouTube Video
 
 💾   Q3:** PersistentVolume (PV) & PersistentVolumeClaim (PVC)**
@@ -43,7 +43,7 @@ Mounted volumes to pods
 
 Verified persistent data storage with shell commands
 
-📄 Solution PDF: ques3 and 7.pdf
+📄 Solution PDF: ques3 and 7.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques3%20and%207.pdf)
 📚 Reference: YouTube Video
 
 ☁️ **Q4: Managing Kubernetes with AKS**
@@ -56,7 +56,8 @@ Upgraded AKS version
 
 Used CLI commands for real-world cloud scaling
 
-📄 Solution PDF: ques4.pdf
+📄 Solution PDF: ques4.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques4.pdf
+)
 📚 Reference: Azure Docs
 
 ❤️‍🔥  **Q5: Configure Liveness and Readiness Probes****
@@ -69,7 +70,8 @@ Simulated failure and recovery
 
 Explained real-life importance in prod systems
 
-📄 Solution PDF: ques 5 and 8.pdf
+📄 Solution PDF: ques 5 and 8.pdf(https://github.com/prateek200445/devops_celebal_week6/blob/main/ques%205%20and%208.pdf
+)
 📚 Reference: YouTube Video
 
 🧭 **Q6: Configure Taints and Tolerations**
@@ -82,7 +84,8 @@ Added toleration in pod YAML
 
 Explained scenario with dedicated GPU workloads
 
-📄 Solution PDF: ques6.pdf
+📄 Solution PDF: ques6.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques6.pdf
+)
 📚 Reference: YouTube Video
 
 🗄️ **Q7: Mount PVC to Deployment**
@@ -95,7 +98,7 @@ Mounted persistent volume
 
 Tested using in-container file creation
 
-📄 Solution PDF: ques3 and 7.pdf
+📄 Solution PDF: ques3 and 7.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques3%20and%207.pdf)
 📚 Reference: Azure Docs
 
 ⚙️ **Q8: Health Probe Simulation**
@@ -108,7 +111,8 @@ Observed pod restart behavior
 
 Demonstrated resiliency
 
-📄 Solution PDF: ques 5 and 8.pdf
+📄 Solution PDF: ques 5 and 8.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques%205%20and%208.pdf
+)
 📚 Reference: YouTube Video
 
 📈 **Q9: Configure Horizontal Pod Autoscaler (HPA)**
@@ -121,7 +125,7 @@ Configured HPA using kubectl
 
 Simulated CPU load to observe autoscaling
 
-📄 Solution PDF: ques_9.pdf
+📄 Solution PDF: ques_9.pdf (https://github.com/prateek200445/devops_celebal_week6/blob/main/ques_9.pdf
 📚 Reference: YouTube Video
 
 In this repo there is a complete conceptual and practical undestanding of the AKS services also knwn as azure kubernetes services
